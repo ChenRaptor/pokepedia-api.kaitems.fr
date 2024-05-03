@@ -1,0 +1,1 @@
+# pokepedia-api.kaitems.fr
